@@ -1,0 +1,16 @@
+@import url("./font.css");
+
+.one {
+    font-family: Roboto-Medium;
+    font-weight: 500;
+}
+
+.two {
+    font-family: Roboto-Bold;
+    font-weight: 700; 
+}
+
+.three {
+    font-family: Roboto-Regular;
+    font-weight: 400; 
+}

@@ -1,16 +1,13 @@
 @import url("./font.css");
 
-.one {
-    font-family: Roboto-Medium;
-    font-weight: 500;
-}
-
-.two {
+body {
+    width: 100vw;
+    margin: 0;
+    height: 100vh;
     font-family: Roboto-Bold;
-    font-weight: 700; 
+    font-weight: 700;
 }
 
-.three {
-    font-family: Roboto-Regular;
-    font-weight: 400; 
+.container {
+    padding: 0 349px;
 }
